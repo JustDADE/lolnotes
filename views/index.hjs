@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+    <link rel="stylesheet" href="/stylesheets/bootstrap.min.css">
+    <link rel="stylesheet" href="/stylesheets/bootstrap-theme.min.css">
+    <script src="/javascripts/jquery.min.js"></script>
+    <script src="/javascripts/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse" role="navigation">
+      <div class="container">
+        <a href="#" class="navbar-brand">Player-Notes</a>
+        <ul class="nav navbar-nav">
+          <li><a href="#" class="active">Home</a></li>
+          <li><a href="#">Browse</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>yolo</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>yolo</td>
+        </tr>
+        <tr>
+          <td>swag</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
